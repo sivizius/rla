@@ -1,0 +1,16 @@
+[package]
+name                                    =   "rla"
+description                             =   "Rust Logic of Action."
+version                                 =   "0.1.0"
+authors                                 =   [
+                                              "Sebastian Walz <sivizius@ohai.su>",
+                                            ]
+edition                                 =   "2018"
+license                                 =   "MIT"
+repository                              =   "https://github.com/sivizius/rla"
+documentation                           =   "https://docs.rs/rla/"
+
+[dependencies]
+
+[lib]
+path                                    =   "source/lib.rs"
